@@ -1,0 +1,9 @@
+Core Java Vol 1 ed 13:
+page 204
+
+Finish chapter 3, then move to 8 concurrency, if feel lack of knowledge, just continue the usual path
+
+When it doesn't feel much interesting, read the first and last paragraph of a section and if there is, the in depth explanation.127
+
+Done:
+Chapter 1, 2
