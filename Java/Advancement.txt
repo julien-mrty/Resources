@@ -1,5 +1,5 @@
 Core Java Vol 1 ed 13:
-page 841
+page 854
 
 Finish chapter 3, then move to 8 concurrency, if feel lack of knowledge, just continue the usual path
 
