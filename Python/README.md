@@ -1,6 +1,6 @@
 ## 1) Python Distilled:
 - Advancements: page 62
-- Will probably not finish it, too "ditilled", doesn't go enough in depth
+- Will probably not finish it, too "distilled", doesn't go enough in depth
 
 ## 2) Fluent Python:
 - Started: 14/01/2026
