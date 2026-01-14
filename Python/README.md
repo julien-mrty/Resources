@@ -3,4 +3,6 @@
 - Will probably not finish it, too "ditilled", doesn't go enough in depth
 
 ## 2) Fluent Python:
-- Should start, if not convinced go back to the first one
+- Started: 14/01/2026
+- If not convinced go back to the first one
+- Advancements: page 45
