@@ -6,3 +6,4 @@
 - Started: 14/01/2026
 - If not convinced go back to the first one
 - Advancements: page 45
+    - Chapter: Data Class Builders, read until 195
