@@ -4,8 +4,8 @@
 
 ## 2) Fluent Python:
 - Started: 14/01/2026
-- Chapters read: 1
-- Advancements: page 89
+- Chapters read: 1, 2
+- Advancements: 110
     - Chapter: Data Class Builders, read until 198
     
 

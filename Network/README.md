@@ -18,5 +18,5 @@
 
 ---
 
-## 2) Computer Networking a Top-Down approach:
+## 2) Computer Networking a Top-Down approach (fun to read):
 - [ ] Read the chapters 1 to 5
