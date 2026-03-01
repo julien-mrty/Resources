@@ -4,10 +4,13 @@
 
 ## 2) Fluent Python:
 - Started: 14/01/2026
-- Chapters read: 1, 2
-- Advancements: 124 
+- Chapters read: 1, 2, 34
+- Advancements:
     - Chapter: Data Class Builders, read until 198
     
+Next move: read chapters 19 to 21. Get a global understanding, then implement something real and fun to fully understand the concepts while making back and forth with the book.
+
+
 
 Ch. 3 — Dictionaries and Sets (read almost fully)
 This is “Python-in-production” core: dict merging, missing keys, defaultdict, hashability, views, performance implications.
@@ -31,6 +34,7 @@ generator functions/expressions
 itertools patterns
 “when to use generator expressions”
 Direct payoff: writing clean, memory-efficient code; very useful in data-ish tasks + interviews.
+
 
 
 If you do only those 4, you’ll already be way ahead of most Python devs.
