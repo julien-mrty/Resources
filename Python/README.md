@@ -5,7 +5,7 @@
 ## 2) Fluent Python:
 - Started: 14/01/2026
 - Chapters read: 1, 2, 34
-- Advancements: 731
+- Advancements: 736
     - Chapter: Data Class Builders, read until 198
     
 Next move: read chapters 19 to 21. Get a global understanding, then implement something real and fun to fully understand the concepts while making back and forth with the book.
