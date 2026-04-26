@@ -1,8 +1,8 @@
 # 📘 Reading Progress Tracker
 
 ## 1) TCP/IP Illustrated
-- [ ] Chapter 1 – 1.4  
-- [ ] Chapter 2 – 2.6  
+- [X] Chapter 1 – 1.4  
+- [X] Chapter 2 – 2.6  
 - [ ] Chapter 3 – 3.4  
 - [ ] Chapter 5 – 5.4  
 - [ ] Chapter 7 – 7.4  
