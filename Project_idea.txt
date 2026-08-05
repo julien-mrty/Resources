@@ -1,0 +1,62 @@
+Best idea: a low-latency market data collector + backtester
+
+Build a system that:
+
+Fetches live market data from several sources concurrently
+Use asyncio for HTTP/WebSocket ingestion, throttling, retries, and streaming.
+Stores and normalizes ticks / candles
+Use threads for I/O-bound writing to disk or database, or a producer-consumer queue.
+Runs strategy backtests in parallel
+Use processes / concurrent.futures.ProcessPoolExecutor for CPU-heavy simulations, since backtests and indicators can become expensive.
+Displays progress and handles failures cleanly
+Use futures, as_completed, timeouts, cancellation, and error aggregation.
+
+This project uses almost exactly the ideas from chapters 19–21:
+
+threads vs processes vs coroutines
+the GIL
+executors and futures
+async networking
+throttling and concurrency control
+CPU-bound vs I/O-bound separation
+Why this is good
+
+It feels “low level” because you are building the plumbing:
+
+network ingestion
+task scheduling
+worker pools
+batching
+backpressure
+persistence
+failure recovery
+
+And it is finance-relevant without being just “another trading bot.”
+
+A concrete version
+
+You could build:
+
+an async price collector for a few assets
+a normalizer that turns raw feeds into a common format
+a backtest engine that runs simple strategies like moving average crossover or mean reversion
+a report generator with performance metrics: Sharpe, max drawdown, win rate, latency
+Even better if you want it more low-level
+
+Add one of these:
+
+a custom order book simulator with matching logic
+a rate limiter / circuit breaker for API calls
+a process pool benchmark comparing thread/process/async performance
+a streaming event engine that processes ticks as an event queue
+If you want something smaller
+
+A very focused project would be:
+“Concurrent options chain downloader and implied-volatility calculator.”
+
+async downloads of options chains
+process pool for IV computation across strikes/expiries
+futures for coordination
+retries, timeouts, progress display
+
+That stays finance-oriented and still exercises the chapters heavily.
