@@ -5,8 +5,8 @@
 - [X] Chapter 2 – 2.6
 - [X] Chapter 3 – 3.4
 - [X] Chapter 5 – 5.4
-- [ ] Chapter 7 – 7.4
-- [ ] Chapter 9 – 9.3
+- [X] Chapter 7 – 7.4
+- [X] Chapter 9 – 9.3
 - [ ] Chapter 10 – 10.13
 - [ ] Chapter 11 – 11.5
 - [ ] Chapter 12
