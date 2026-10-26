@@ -3,6 +3,7 @@
 - [ ] TCP/IP Illustrated
 - [ ] Operating Systems - Three Easy Pieces
 - [ ] Inside the Machine
+- [ ] Read Research papers, especially the one on cpu memory
 
 ### Learning methodology:
 - Write sandbox code for programming language books
