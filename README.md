@@ -6,6 +6,7 @@
 - [ ] Concurrency In Action — Multithreading and concurrent programming for market data processing
 - [ ] C++ Software Design — Professional patterns for production trading platforms
 - [ ] Beautiful C++ — Modern techniques for efficient, maintainable trading systems
+- [ ] Read Research papers, especially the one on cpu memory
 
 ### Learning methodology:
 - Write sandbox code for programming language books
