@@ -1,16 +1,16 @@
 # 📘 Reading Progress Tracker
 
 ## 1) TCP/IP Illustrated
-- [X] Chapter 1 – 1.4
-- [X] Chapter 2 – 2.6
-- [X] Chapter 3 – 3.4
-- [X] Chapter 5 – 5.4
-- [X] Chapter 7 – 7.4
-- [X] Chapter 9 – 9.3
-- [ ] Chapter 10 – 10.13
-- [ ] Chapter 11 – 11.5
-- [ ] Chapter 12
-- [ ] Chapter 13 – 13.13.6
+- [X] Chapter 1 – 1.4 Done
+- [X] Chapter 2 – 2.6 Partially Done
+- [X] Chapter 3 – 3.4 Partially Done
+- [X] Chapter 5 – 5.4 Partially Done
+- [X] Chapter 7 – 7.4 Partially Done
+- [X] Chapter 9 – 9.3 Partially Done
+- [X] Chapter 10 – 10.13 Done
+- [X] Chapter 11 – 11.5 Done
+- [X] Chapter 12 Take notes
+- [ ] Chapter 13 – 13.6 On going
 - [ ] Chapter 14 – 14.7
 - [ ] Chapter 15 – 15.5
 - [ ] Chapter 16 (16.1 and 16.3)
